@@ -20,3 +20,4 @@ A portable AppImage of Inviska MKV Extract v11.0, featuring custom enhancements 
    chmod +x Inviska_MKV_Extract_v11.0_Dark.AppImage
    
    ./Inviska_MKV_Extract_v11.0_Dark.AppImage
+> Note: If it doesn't start, make sure you have `fuse` or `libfuse2` installed on your system.
