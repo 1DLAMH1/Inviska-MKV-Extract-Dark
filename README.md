@@ -4,7 +4,11 @@ A portable AppImage of Inviska MKV Extract v11.0 with a built-in Dark Mode and u
 
 A portable AppImage of Inviska MKV Extract v11.0, featuring custom enhancements for a better user experience.
 
-![Inviska MKV Extract Dark Mode](screenshot-dark.png)
+## 📸 Screenshots
+
+| Main Interface |
+| :---: |
+| ![Main Interface](Screenshots/main_interface.jpg) |
 
 ## ✨ Features
 - 🌙 **Built-in Dark Mode**: Automatically applies a dark theme without needing to configure system settings.
